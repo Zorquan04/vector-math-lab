@@ -30,9 +30,9 @@ Clone the repository:
 git clone https://github.com/Zorquan04/vector-math-lab.git
 ```
 
-Navigate to the solution directory:
+Navigate to the solution directory (if you are not in it):
 ```bash
-cd VectorMathLabSolution
+cd vector-math-lab
 ```
 
 Restore dependencies:

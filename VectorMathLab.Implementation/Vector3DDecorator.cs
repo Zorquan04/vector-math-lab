@@ -46,8 +46,8 @@ namespace VectorMathLab.Implementation
     // Pomocnicza klasa Vector3D do przechowywania wyniku cross product
     public class Vector3D(double x, double y, double z)
     {
-        private readonly double _x = x, _y = y, _z = z;
+        public readonly double X = x, Y = y, Z = z;
 
-        public override string ToString() => $"({_x}, {_y}, {_z})";
+        public override string ToString() => $"({X}, {Y}, {Z})";
     }
 }
