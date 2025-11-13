@@ -1,6 +1,8 @@
-﻿namespace VectorMathLab.Interfaces;
-
-public class IPolar2D
+﻿namespace VectorMathLab.Interfaces
 {
-    
+    public interface IPolar2D
+    {
+        double GetAngle();  // kąt w radianach
+        double Abs();       // długość wektora
+    }
 }

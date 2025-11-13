@@ -346,6 +346,29 @@
             "related": ".xml"
           }
         }
+      },
+      "VectorMathLab.Implementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "VectorMathLab.Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VectorMathLab.Implementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VectorMathLab.Implementation.dll": {}
+        }
+      },
+      "VectorMathLab.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/VectorMathLab.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VectorMathLab.Interfaces.dll": {}
+        }
       }
     }
   },
@@ -793,6 +816,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "VectorMathLab.Implementation/1.0.0": {
+      "type": "project",
+      "path": "../VectorMathLab.Implementation/VectorMathLab.Implementation.csproj",
+      "msbuildProject": "../VectorMathLab.Implementation/VectorMathLab.Implementation.csproj"
+    },
+    "VectorMathLab.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../VectorMathLab.Interfaces/VectorMathLab.Interfaces.csproj",
+      "msbuildProject": "../VectorMathLab.Interfaces/VectorMathLab.Interfaces.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -801,6 +834,8 @@
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.4.0",
       "NUnit3TestAdapter >= 4.6.0",
+      "VectorMathLab.Implementation >= 1.0.0",
+      "VectorMathLab.Interfaces >= 1.0.0",
       "coverlet.collector >= 6.0.2"
     ]
   },
@@ -833,7 +868,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kacpe\\RiderProjects\\VectorMathLabSolution\\VectorMathLab.Implementation\\VectorMathLab.Implementation.csproj": {
+              "projectPath": "C:\\Users\\kacpe\\RiderProjects\\VectorMathLabSolution\\VectorMathLab.Implementation\\VectorMathLab.Implementation.csproj"
+            },
+            "C:\\Users\\kacpe\\RiderProjects\\VectorMathLabSolution\\VectorMathLab.Interfaces\\VectorMathLab.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\kacpe\\RiderProjects\\VectorMathLabSolution\\VectorMathLab.Interfaces\\VectorMathLab.Interfaces.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

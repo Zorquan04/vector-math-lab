@@ -20,4 +20,9 @@
         <Using Include="NUnit.Framework"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\VectorMathLab.Implementation\VectorMathLab.Implementation.csproj" />
+      <ProjectReference Include="..\VectorMathLab.Interfaces\VectorMathLab.Interfaces.csproj" />
+    </ItemGroup>
+
 </Project>
