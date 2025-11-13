@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VectorMathLab.App/1.0.0": {
+        "dependencies": {
+          "VectorMathLab.Implementation": "1.0.0",
+          "VectorMathLab.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "VectorMathLab.App.dll": {}
+        }
+      },
+      "VectorMathLab.Implementation/1.0.0": {
+        "dependencies": {
+          "VectorMathLab.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "VectorMathLab.Implementation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VectorMathLab.Interfaces/1.0.0": {
+        "runtime": {
+          "VectorMathLab.Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VectorMathLab.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VectorMathLab.Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VectorMathLab.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\bin\Debug\net9.0\VectorMathLab.Interfaces.deps.json
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\bin\Debug\net9.0\VectorMathLab.Interfaces.dll
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\bin\Debug\net9.0\VectorMathLab.Interfaces.pdb
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\VectorMathLab.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\VectorMathLab.Interfaces.AssemblyInfoInputs.cache
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\VectorMathLab.Interfaces.AssemblyInfo.cs
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\VectorMathLab.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\VectorMathLab.Interfaces.dll
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\refint\VectorMathLab.Interfaces.dll
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\VectorMathLab.Interfaces.pdb
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Interfaces\obj\Debug\net9.0\ref\VectorMathLab.Interfaces.dll
