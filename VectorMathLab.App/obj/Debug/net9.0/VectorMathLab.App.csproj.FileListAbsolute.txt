@@ -18,3 +18,4 @@ C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.App\obj\Debug\n
 C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.App\obj\Debug\net9.0\VectorMathLab.App.pdb
 C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.App\obj\Debug\net9.0\VectorMathLab.App.genruntimeconfig.cache
 C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.App\obj\Debug\net9.0\ref\VectorMathLab.App.dll
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.App\obj\Debug\net9.0\VectorMathLab.App.sourcelink.json

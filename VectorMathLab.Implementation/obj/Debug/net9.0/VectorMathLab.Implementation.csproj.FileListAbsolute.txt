@@ -13,3 +13,4 @@ C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Implementation\
 C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Implementation\obj\Debug\net9.0\refint\VectorMathLab.Implementation.dll
 C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Implementation\obj\Debug\net9.0\VectorMathLab.Implementation.pdb
 C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Implementation\obj\Debug\net9.0\ref\VectorMathLab.Implementation.dll
+C:\Users\kacpe\RiderProjects\VectorMathLabSolution\VectorMathLab.Implementation\obj\Debug\net9.0\VectorMathLab.Implementation.sourcelink.json

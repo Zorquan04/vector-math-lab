@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VectorMathLab.Implementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb546b0e429d024fe6d8356c1275d43c0709a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("VectorMathLab.Implementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VectorMathLab.Implementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
